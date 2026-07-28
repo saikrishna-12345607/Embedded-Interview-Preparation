@@ -1,5 +1,5 @@
-# Embedded-Interview-Preparation
-        # Embedded Systems Interview Preparation
+ Embedded-Interview-Preparation
+         Embedded Systems Interview Preparation
 
 Hi, I'm Sai Krishna.
 
@@ -7,7 +7,7 @@ This repository contains my daily learning and practice while preparing for Embe
 
 I created this repository to improve my programming skills, understand embedded concepts, and keep all my notes and programs in one place. Every day I will upload what I learn, so I can track my progress and revise easily before interviews.
 
-## My Goal
+ My Goal
 
 - Learn Embedded C Programming
 - Understand ARM Cortex-M
@@ -16,7 +16,7 @@ I created this repository to improve my programming skills, understand embedded 
 - Build embedded projects
 - Prepare for Embedded Systems interviews
 
-## What You Will Find Here
+ What You Will Find Here
 
 - Daily Notes
 - C Programs
@@ -53,11 +53,11 @@ Embedded-Interview-Preparation
 └── README.md
 ```
 
-## Why I Created This Repository
+ Why I Created This Repository
 
 I want to become a good Embedded Software Engineer. This repository helps me practice every day and improve my knowledge. It also shows my learning journey and projects to recruiters.
 
-## Target Companies
+ Target Companies
 
 - eInfochips
 - LTTS
@@ -66,10 +66,10 @@ I want to become a good Embedded Software Engineer. This repository helps me pra
 - Quest Global
 - Capgemini Engineering
 
-## Thank You
+ Thank You
 
 Thank you for visiting my repository.
 
 I will continue updating this repository every day as I learn new topics and build new projects.
 
-⭐ If you like my work, feel free to check out my projects.
+ If you like my work, feel free to check out my projects.
