@@ -1,0 +1,186 @@
+# Day 3 - Arrays in C Programming
+
+Today I learned one of the most important topics in C programming: **Arrays**. I also practiced basic array programs and understood how arrays are used to store multiple values of the same data type.
+
+---
+
+# Topics Learned
+
+- What is an Array?
+- Why do we use Arrays?
+- Types of Arrays
+- One-Dimensional Array
+- Two-Dimensional Array
+- Array Declaration
+- Array Initialization
+- Array Traversal
+- Array Indexing
+- Size of an Array
+- Memory used by Arrays
+
+---
+
+# What is an Array?
+
+An array is a collection of elements of the same data type stored in continuous memory locations.
+
+Example:
+
+```c
+int arr[5];
+```
+
+---
+
+# Why do we use Arrays?
+
+- Store multiple values using one variable.
+- Reduce the number of variables.
+- Easy to access elements using an index.
+- Makes the program simpler.
+- Improves code readability.
+
+---
+
+# Types of Arrays
+
+## One-Dimensional Array (1D)
+
+Stores elements in a single row.
+
+Example:
+
+```c
+int arr[5];
+```
+
+---
+
+## Two-Dimensional Array (2D)
+
+Stores data in rows and columns like a matrix.
+
+Example:
+
+```c
+int matrix[2][3];
+```
+
+---
+
+# Array Declaration
+
+```c
+int arr[5];
+```
+
+---
+
+# Array Initialization
+
+```c
+int arr[5] = {10,20,30,40,50};
+```
+
+---
+
+# Array Traversal
+
+Array traversal means visiting every element of an array one by one.
+
+Example:
+
+```c
+for(int i=0;i<5;i++)
+{
+    printf("%d",arr[i]);
+}
+```
+
+---
+
+# Programs Practiced
+
+- Print Array Elements
+- Find Largest Element
+- Find Smallest Element
+- Sum of Array Elements
+- Average of Array Elements
+
+---
+
+# Logic Learned
+
+## Largest Element
+
+- Assume first element is the largest.
+- Compare every element.
+- Update the largest value whenever a bigger element is found.
+
+---
+
+## Smallest Element
+
+- Assume first element is the smallest.
+- Compare every element.
+- Update the smallest value whenever a smaller element is found.
+
+---
+
+## Sum of Array
+
+- Initialize sum = 0.
+- Add every element to sum.
+
+---
+
+## Average
+
+Average = Total Sum / Number of Elements
+
+---
+
+# Interview Questions
+
+### What is an Array?
+
+An array is a collection of elements of the same data type stored in continuous memory locations.
+
+### Why do we use Arrays?
+
+Arrays reduce the number of variables and allow easy access to data using indexes.
+
+### Difference between Variable and Array
+
+A variable stores one value.
+
+An array stores multiple values of the same data type.
+
+### What is Array Indexing?
+
+Array indexing is used to access elements of an array.
+
+The first index always starts from **0**.
+
+### What happens if we access outside the array?
+
+It leads to **Undefined Behaviour**.
+
+It may produce a garbage value, crash the program, or corrupt memory.
+
+---
+
+# Embedded Interview Questions
+
+- Why are arrays useful in Embedded Systems?
+- Where are arrays stored in memory?
+- Can arrays store different data types?
+- What happens if we access an array outside its size?
+
+---
+
+# What I Learned Today
+
+Today I learned how arrays store multiple values efficiently. I practiced array traversal and wrote programs to find the largest element, smallest element, sum, and average. I also learned about array indexing, memory usage, and common interview questions related to arrays.
+
+---
